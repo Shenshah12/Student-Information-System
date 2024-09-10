@@ -16,6 +16,10 @@ Utilizes file handling for storing and retrieving student records, ensuring data
 Visual Studio (preferably 2019 or later)
 C++ compiler
 
+## Output
+<img width="806" alt="Record" src="https://github.com/user-attachments/assets/ea0c5fdc-a6bb-47ef-b38f-97ba702b1752">
+
+
 ## Contributing
 If you'd like to contribute to the project, feel free to fork the repository and submit a pull request.
 
